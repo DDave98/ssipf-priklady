@@ -1,0 +1,3 @@
+- zde budou příkaldy na vývojové diagramy,
+- algoritmizace,
+- ...
